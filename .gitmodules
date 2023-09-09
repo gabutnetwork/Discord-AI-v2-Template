@@ -1,0 +1,6 @@
+[submodule "DiscordBotV2"]
+	path = DiscordBotV2
+	url = https://github.com/gabutnetwork/AsixAI-Bot-Template.git
+[submodule "localdb"]
+	path = localdb
+	url = https://github.com/gabutnetwork/AI-v2-localdb-template.git
